@@ -1,0 +1,2 @@
+simple sampler 1
+noise input: r1 = 68k
